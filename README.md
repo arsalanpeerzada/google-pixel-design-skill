@@ -50,7 +50,7 @@ npx skills add google-pixel-design-skill -g
 Place the repository into your local or global agent skills directory:
 
 ```bash
-git clone https://github.com/your-username/google-pixel-design-skill.git .agents/skills/google-pixel-design
+git clone https://github.com/arsalanpeerzada/google-pixel-design-skill.git .agents/skills/google-pixel-design
 ```
 
 Keep `GEMINI.md` in your project root to auto-activate Pixel design critiques.
@@ -60,7 +60,7 @@ Keep `GEMINI.md` in your project root to auto-activate Pixel design critiques.
 Clone into your user or workspace skills directory:
 
 ```bash
-git clone https://github.com/your-username/google-pixel-design-skill.git ~/.claude/skills/google-pixel-design
+git clone https://github.com/arsalanpeerzada/google-pixel-design-skill.git ~/.claude/skills/google-pixel-design
 ```
 
 Trigger it in chat using `/google-pixel-design` or simply by asking for a design critique.
@@ -70,7 +70,7 @@ Trigger it in chat using `/google-pixel-design` or simply by asking for a design
 Add as a submodule or clone into `.design-rules/`:
 
 ```bash
-git submodule add https://github.com/your-username/google-pixel-design-skill.git .design-rules/google-pixel-design
+git submodule add https://github.com/arsalanpeerzada/google-pixel-design-skill.git .design-rules/google-pixel-design
 ```
 
 Include its `.cursorrules` in your project's ruleset.
