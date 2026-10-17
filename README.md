@@ -5,6 +5,10 @@
 [![Skills Standard](https://img.shields.io/badge/Agent%20Skill-skills.sh-purple.svg)](https://skills.sh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<p align="center">
+  <img src="assets/linkedin_banner.png" alt="Google Pixel Design Skill Banner" width="100%" style="border-radius: 16px;" />
+</p>
+
 An AI design reviewer and code generator grounded in **Google's Material Design 3 (M3) Expressive** guidelines and the signature **Google Pixel UI** language. Packaged as an open agent skill for AI coding assistants (Claude Code, Cursor, Codex, Antigravity, OpenCode, Windsurf).
 
 Audits, critiques, and upgrades mobile and web interfaces with **Dynamic Color (Monet)**, **HCT tonal palettes**, **tonal elevation**, **expressive shape-morphing**, **spring motion physics**, and **foldable adaptation**. Translates platform vocabulary across **Jetpack Compose**, **Flutter**, **React Native Paper**, **Web (Tailwind / CSS tokens)**, and **Compose Multiplatform**.
