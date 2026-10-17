@@ -1,0 +1,12 @@
+# Cursor Rules: Google Pixel & Material 3 Expressive
+
+When reviewing, designing, or implementing UI/UX:
+- Adhere to Google's Material 3 Expressive system and Google Pixel design conventions.
+- Reference `SKILL.md` and load component guides from `references/` via `references/lookup.md`.
+- Enforce:
+  1. Minimum 48x48dp touch targets with at least 8dp padding between adjacent controls.
+  2. Dynamic color roles (e.g. `colorScheme.surfaceContainer`, `colorScheme.primaryContainer`) instead of hardcoded hex values.
+  3. Tonal elevation over dark drop shadows.
+  4. Spring-based physics (`spring(dampingRatio, stiffness)`) for animations.
+  5. 3 to 5 destinations for bottom navigation; switch to `NavigationRail` on wide/foldable screens.
+- Use `references/cross-platform.md` when working with Flutter, React Native, or Web code.
